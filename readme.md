@@ -1,5 +1,5 @@
 # 增强学习
-参考自 ![莫烦python](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/blob/master/contents/3_Sarsa_maze/RL_brain.py)
+参考自 [莫烦python](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow/blob/master/contents/3_Sarsa_maze/RL_brain.py)
 
 主要修改地方：
 
